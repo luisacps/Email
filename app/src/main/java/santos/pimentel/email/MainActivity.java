@@ -33,7 +33,7 @@ public class MainActivity extends AppCompatActivity {
                 EditText etAssunto = findViewById(R.id.etAssunto);
                 String assunto = etAssunto.getText().toString();
 
-                // obtencao da caixa de texto extenso
+                // obtencao da caixa de texto
                 EditText etTexto = findViewById(R.id.etTexto);
                 String texto = etTexto.getText().toString();
 
